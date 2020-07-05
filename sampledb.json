@@ -1,0 +1,47 @@
+ 
+  [
+  {
+   "BookName":"Business Maharajas",
+   "Author's Name": "Gita Piramal",
+   "image_url":"https://drive.google.com/file/d/1Y1POi7DLUf4Rw7comEEv5bQwdHAP6Xge/view?usp=sharing",
+   "pdf_url": "https://drive.google.com/file/d/1gbva2mPWnb6a1CkLLi3bLQDuUQ5at4-A/view?usp=sharing"
+
+  },
+  {
+    "BookName":"Chariots of Gods",
+    "Author's Name": "Erich Von Danikin",
+    "image_url":"https://drive.google.com/file/d/17HfQTEwjOqGjbzYvHb0RzT2kJlSy-5xt/view?usp=sharing",
+    "pdf_url": "https://drive.google.com/file/d/1DgJ1HhQ88FqJdBMkFvN2vqcRgmUupCtR/view?usp=sharing"
+  },
+  {
+    "BookName":"Jonathan Livingstone Seagull",
+    "Author's Name": "Richard Bach",
+    "image_url":"https://drive.google.com/file/d/1wX0vWg95Qb73-dk8xrKELP8aCsuXhumo/view?usp=sharing",
+    "pdf_url": "https://drive.google.com/file/d/1AUo-ZxBvsNoQlEi5_7vDP0guOx-yfzju/view?usp=sharing"
+  },
+  {
+    "BookName":"Many Masters Many Lives",
+    "Author's Name": "Dr Brian Weiss",
+    "image_url":"https://drive.google.com/file/d/1IjMqVSW_Vmp79YjYYhTa0nLY6XhcGS2Y/view?usp=sharing",
+    "pdf_url": "https://drive.google.com/file/d/1CynC8uB7bXM-srFJZDTW_PcFN7gIHQH1/view?usp=sharing"
+  },
+  {
+    "BookName":"The Monk Who Sold His Ferrari",
+    "Author's Name": "Robin Sharma",
+    "image_url":"https://drive.google.com/file/d/1tfvc9njubJowJo2LNpmIDomEsgeX6Bj5/view?usp=sharing",
+    "pdf_url": "https://drive.google.com/file/d/1vW50raUOHViyYX8hqO3RoIsO4axL50Fl/view?usp=sharing"
+  },
+  {
+    "BookName":"The Zahir",
+    "Author's Name": "Paulo Coelho",
+    "image_url":"https://drive.google.com/file/d/1p6oOD_8izl_iWqfO3rNppqhXf81ocn82/view?usp=sharing",
+    "pdf_url": "https://drive.google.com/file/d/1AWNWRMiFPFnHS0MmoSYVtkv-JL-THRT8/view?usp=sharing"
+  },
+  {
+    "BookName":"Tuesdays with Morrie",
+    "Author's Name": "Mitch Albom",
+    "image_url":"https://drive.google.com/file/d/1bjBnllONwTk6AVqoBQYKmaKox47C0Dtg/view?usp=sharing",
+    "pdf_url": "https://drive.google.com/file/d/18EkqBOejYSO8nYiQnylk7AcvMOVC7SUG/view?usp=sharing"
+  }
+]
+  
